@@ -1,5 +1,5 @@
-# Course-feedback-app-v1
-Node.js app to login and enter feedback for any course in college.
+# course-feedback-app-v1
+Express Node.js app to login and enter feedback for any course in college.
 
 1) Login page :- 
 
